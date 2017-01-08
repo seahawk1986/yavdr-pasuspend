@@ -1,0 +1,13 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: yavdr-pasuspend
+Source: https://github.com/flensrocker/yavdr-pasuspend
+License: GPL-3+
+
+
+Files: *
+Copyright: 2017 Lars Hanisch
+License: GPL-3+
+
+Files: debian/*
+Copyright: 2017 Alexander Grothe
+License: GPL-3+
